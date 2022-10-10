@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Toprate\\Torontoso\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+            "outputFile": "C:\\Users\\Admin\\AndroidStudioProjects\\PatientAppointment\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\d0644435adf6baca35f5e6761f0ac834\\jetified-materialdatetimepicker-2.3.0\\res\\values-nb\\values-nb.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "263,324,435,550,631,749,868,991,1087,1174,1266,1351",
-                        "endColumns": "60,110,114,80,117,118,122,95,86,91,84,95",
-                        "endOffsets": "319,430,545,626,744,863,986,1082,1169,1261,1346,1442"
-                    },
-                    "to": {
-                        "startLines": "29,30,31,32,33,34,35,36,37,38,39,40",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2747,2808,2919,3034,3115,3233,3352,3475,3571,3658,3750,3835",
-                        "endColumns": "60,110,114,80,117,118,122,95,86,91,84,95",
-                        "endOffsets": "2803,2914,3029,3110,3228,3347,3470,3566,3653,3745,3830,3926"
-                    }
-                },
                 {
                     "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\45ca2b27b5a8d2aecb4ee89b6457658f\\core-1.0.0\\res\\values-nb\\values-nb.xml",
                     "from": {
@@ -35,6 +18,23 @@
                         "startOffsets": "4010",
                         "endColumns": "100",
                         "endOffsets": "4106"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\b9ca84e5fbd48ca1f67b7d7ea16e1cf5\\jetified-materialdatetimepicker-2.3.0\\res\\values-nb\\values-nb.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "263,324,435,550,631,749,868,991,1087,1174,1266,1351",
+                        "endColumns": "60,110,114,80,117,118,122,95,86,91,84,95",
+                        "endOffsets": "319,430,545,626,744,863,986,1082,1169,1261,1346,1442"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,36,37,38,39,40",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2747,2808,2919,3034,3115,3233,3352,3475,3571,3658,3750,3835",
+                        "endColumns": "60,110,114,80,117,118,122,95,86,91,84,95",
+                        "endOffsets": "2803,2914,3029,3110,3228,3347,3470,3566,3653,3745,3830,3926"
                     }
                 },
                 {

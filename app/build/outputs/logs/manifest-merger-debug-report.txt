@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:2:1-43:12
+ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:2:1-43:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\01aba6feafaa9666a150e0ccab90f24c\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.ganfra:material-spinner:1.1.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\715e06e423e5fab8b7ee46a50bd58bbb\jetified-material-spinner-1.1.1\AndroidManifest.xml:2:1-10:12
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\24c8333af3f2d43ff2b1c71d3d52d739\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [xyz.danoz:recyclerviewfastscroller:0.1.3] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\c227054d096b556e9d5bd0d1f066fe11\jetified-recyclerviewfastscroller-0.1.3\AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.dmytrodanylyk.android-process-button:library:1.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b60c525d5afe801dd1f06dfb83ab9a60\jetified-library-1.0.4\AndroidManifest.xml:2:1-12:12
-MERGED from [com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\d0644435adf6baca35f5e6761f0ac834\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:17:1-30:12
-MERGED from [com.github.chrisbanes:PhotoView:1.2.6] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\f928e9ad509a60e3b56b2c8879a557c9\jetified-PhotoView-1.2.6\AndroidManifest.xml:2:1-12:12
+MERGED from [xyz.danoz:recyclerviewfastscroller:0.1.3] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\9f8003fc13a7fcdd52c76b47a8a2e76e\jetified-recyclerviewfastscroller-0.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.dmytrodanylyk.android-process-button:library:1.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\09b0384aeac4edb94e11143b3a1475cb\jetified-library-1.0.4\AndroidManifest.xml:2:1-12:12
+MERGED from [com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b9ca84e5fbd48ca1f67b7d7ea16e1cf5\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:17:1-30:12
+MERGED from [com.github.chrisbanes:PhotoView:1.2.6] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\dbef187498556044aaee7cfda5f02d78\jetified-PhotoView-1.2.6\AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\5c75bd7951d359a85775620c0170e49e\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3c34672520a20385459add6dbdffba42\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\d5caeb323d2f012734c7fc83bc887a28\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -31,7 +31,7 @@ MERGED from [androidx.loader:loader:1.0.0] C:\Users\Admin\.gradle\caches\transfo
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8bfc0a81decb3595ac502582a2aeb0f5\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.media:media:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\e6db2a8ebafb4101960628e4b20a9462\media-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\45ca2b27b5a8d2aecb4ee89b6457658f\core-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ba4187e589237f6e01f406b5af03bf2f\jetified-circleimageview-2.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\9f483852df85e175d626e9f77fa87b16\jetified-circleimageview-2.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:2:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7d7fd0d2929b90b96150578fa61b2794\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\f6ee4caf47f75b1f61a904ebd80d0032\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
@@ -45,45 +45,45 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Admin\.gradl
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\54ec9a60a0f20829d9c5323f1ce0908c\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0571339fd4cb74441b19561f6766bb98\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0f91f258f9d0abaa0e56c019df47bd85\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:2:1-43:12
 	package
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:3:5-36
-		INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:2:1-43:12
-		INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:2:1-43:12
-		INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:4:5-63
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:4:5-63
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:6:5-80
+ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:6:22-77
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:6:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:7:5-81
+ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:7:22-78
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:7:22-78
 uses-permission#android.permission.INTERNET
-ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:8:5-67
+ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:8:5-67
 	android:name
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:8:22-64
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:8:22-64
 application
-ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:10:5-41:19
+ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:10:5-41:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\01aba6feafaa9666a150e0ccab90f24c\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\01aba6feafaa9666a150e0ccab90f24c\material-1.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\d0644435adf6baca35f5e6761f0ac834\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:28:5-20
-MERGED from [com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\d0644435adf6baca35f5e6761f0ac834\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:28:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b9ca84e5fbd48ca1f67b7d7ea16e1cf5\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:28:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b9ca84e5fbd48ca1f67b7d7ea16e1cf5\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:28:5-20
 MERGED from [androidx.core:core:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\45ca2b27b5a8d2aecb4ee89b6457658f\core-1.0.0\AndroidManifest.xml:22:5-89
 MERGED from [androidx.core:core:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\45ca2b27b5a8d2aecb4ee89b6457658f\core-1.0.0\AndroidManifest.xml:22:5-89
-MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ba4187e589237f6e01f406b5af03bf2f\jetified-circleimageview-2.0.0\AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ba4187e589237f6e01f406b5af03bf2f\jetified-circleimageview-2.0.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\9f483852df85e175d626e9f77fa87b16\jetified-circleimageview-2.0.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\9f483852df85e175d626e9f77fa87b16\jetified-circleimageview-2.0.0\AndroidManifest.xml:9:5-20
 MERGED from [com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:12:5-22:19
 MERGED from [com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:12:5-22:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\f6ee4caf47f75b1f61a904ebd80d0032\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
@@ -91,77 +91,77 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ad
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\45ca2b27b5a8d2aecb4ee89b6457658f\core-1.0.0\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:13:9-34
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:13:9-34
 	android:icon
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:15:9-40
-activity#com.labrace.torontoso.activity.SplashActivity
-ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:16:9-27:20
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.cpsteam.torontoso.activity.SplashActivity
+ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:16:9-27:20
 	android:screenOrientation
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:20:13-49
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:20:13-49
 	android:label
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:18:13-38
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:18:13-38
 	android:configChanges
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:21:13-59
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:21:13-59
 	android:theme
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:19:13-67
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:19:13-67
 	android:name
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:17:13-73
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:17:13-73
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:23:17-68
+ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:23:17-68
 	android:name
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:25:17-76
+ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:25:17-76
 	android:name
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:25:27-74
-activity#com.labrace.torontoso.activity.MainNavActivity
-ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:28:9-34:20
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.cpsteam.torontoso.activity.MainNavActivity
+ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:28:9-34:20
 	android:screenOrientation
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:32:13-49
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:32:13-49
 	android:label
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:30:13-64
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:30:13-64
 	android:configChanges
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:33:13-59
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:33:13-59
 	android:theme
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:31:13-56
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:31:13-56
 	android:name
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:29:13-74
-activity#com.labrace.torontoso.activity.LoginActivity
-ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:35:9-40:20
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:29:13-74
+activity#com.cpsteam.torontoso.activity.LoginActivity
+ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:35:9-40:20
 	android:screenOrientation
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:38:13-49
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:38:13-49
 	android:configChanges
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:39:13-59
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:39:13-59
 	android:theme
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:37:13-67
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:37:13-67
 	android:name
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:36:13-72
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:36:13-72
 uses-sdk
-INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
-INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\01aba6feafaa9666a150e0ccab90f24c\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\01aba6feafaa9666a150e0ccab90f24c\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.github.ganfra:material-spinner:1.1.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\715e06e423e5fab8b7ee46a50bd58bbb\jetified-material-spinner-1.1.1\AndroidManifest.xml:6:5-8:41
 MERGED from [com.github.ganfra:material-spinner:1.1.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\715e06e423e5fab8b7ee46a50bd58bbb\jetified-material-spinner-1.1.1\AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\24c8333af3f2d43ff2b1c71d3d52d739\appcompat-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\24c8333af3f2d43ff2b1c71d3d52d739\appcompat-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [xyz.danoz:recyclerviewfastscroller:0.1.3] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\c227054d096b556e9d5bd0d1f066fe11\jetified-recyclerviewfastscroller-0.1.3\AndroidManifest.xml:7:5-9:41
-MERGED from [xyz.danoz:recyclerviewfastscroller:0.1.3] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\c227054d096b556e9d5bd0d1f066fe11\jetified-recyclerviewfastscroller-0.1.3\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.dmytrodanylyk.android-process-button:library:1.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b60c525d5afe801dd1f06dfb83ab9a60\jetified-library-1.0.4\AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.dmytrodanylyk.android-process-button:library:1.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b60c525d5afe801dd1f06dfb83ab9a60\jetified-library-1.0.4\AndroidManifest.xml:8:5-10:41
-MERGED from [com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\d0644435adf6baca35f5e6761f0ac834\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:22:5-24:41
-MERGED from [com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\d0644435adf6baca35f5e6761f0ac834\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:22:5-24:41
-MERGED from [com.github.chrisbanes:PhotoView:1.2.6] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\f928e9ad509a60e3b56b2c8879a557c9\jetified-PhotoView-1.2.6\AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.chrisbanes:PhotoView:1.2.6] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\f928e9ad509a60e3b56b2c8879a557c9\jetified-PhotoView-1.2.6\AndroidManifest.xml:8:5-10:41
+MERGED from [xyz.danoz:recyclerviewfastscroller:0.1.3] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\9f8003fc13a7fcdd52c76b47a8a2e76e\jetified-recyclerviewfastscroller-0.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [xyz.danoz:recyclerviewfastscroller:0.1.3] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\9f8003fc13a7fcdd52c76b47a8a2e76e\jetified-recyclerviewfastscroller-0.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.dmytrodanylyk.android-process-button:library:1.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\09b0384aeac4edb94e11143b3a1475cb\jetified-library-1.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.dmytrodanylyk.android-process-button:library:1.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\09b0384aeac4edb94e11143b3a1475cb\jetified-library-1.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b9ca84e5fbd48ca1f67b7d7ea16e1cf5\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b9ca84e5fbd48ca1f67b7d7ea16e1cf5\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.chrisbanes:PhotoView:1.2.6] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\dbef187498556044aaee7cfda5f02d78\jetified-PhotoView-1.2.6\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.chrisbanes:PhotoView:1.2.6] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\dbef187498556044aaee7cfda5f02d78\jetified-PhotoView-1.2.6\AndroidManifest.xml:8:5-10:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\5c75bd7951d359a85775620c0170e49e\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\5c75bd7951d359a85775620c0170e49e\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3c34672520a20385459add6dbdffba42\fragment-1.0.0\AndroidManifest.xml:20:5-44
@@ -202,8 +202,8 @@ MERGED from [androidx.media:media:1.0.0] C:\Users\Admin\.gradle\caches\transform
 MERGED from [androidx.media:media:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\e6db2a8ebafb4101960628e4b20a9462\media-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\45ca2b27b5a8d2aecb4ee89b6457658f\core-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\45ca2b27b5a8d2aecb4ee89b6457658f\core-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ba4187e589237f6e01f406b5af03bf2f\jetified-circleimageview-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ba4187e589237f6e01f406b5af03bf2f\jetified-circleimageview-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\9f483852df85e175d626e9f77fa87b16\jetified-circleimageview-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\9f483852df85e175d626e9f77fa87b16\jetified-circleimageview-2.0.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7d7fd0d2929b90b96150578fa61b2794\cardview-1.0.0\AndroidManifest.xml:20:5-44
@@ -230,20 +230,20 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Admin\.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0571339fd4cb74441b19561f6766bb98\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0f91f258f9d0abaa0e56c019df47bd85\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0f91f258f9d0abaa0e56c019df47bd85\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
-INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
-		ADDED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.VIBRATE
-ADDED from [com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\d0644435adf6baca35f5e6761f0ac834\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:26:5-66
+ADDED from [com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b9ca84e5fbd48ca1f67b7d7ea16e1cf5\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:26:5-66
 	android:name
-		ADDED from [com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\d0644435adf6baca35f5e6761f0ac834\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:26:22-63
+		ADDED from [com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b9ca84e5fbd48ca1f67b7d7ea16e1cf5\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:26:22-63
 uses-permission#com.android.vending.BILLING
 ADDED from [com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:10:5-67
 	android:name

@@ -4,6 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b60c525d5afe801dd1f06dfb83ab9a60/jetified-library-1.0.4/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b60c525d5afe801dd1f06dfb83ab9a60/jetified-library-1.0.4/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b60c525d5afe801dd1f06dfb83ab9a60/jetified-library-1.0.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09b0384aeac4edb94e11143b3a1475cb/jetified-library-1.0.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09b0384aeac4edb94e11143b3a1475cb/jetified-library-1.0.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09b0384aeac4edb94e11143b3a1475cb/jetified-library-1.0.4/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dmytrodanylyk.android-process-button/library/1.0.4/147ca9d933a6c3d42c56c2d51cec10efd2a6909b/library-1.0.4-javadoc.jar!/" />

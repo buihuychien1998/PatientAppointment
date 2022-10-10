@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Toprate\\Torontoso\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\Admin\\AndroidStudioProjects\\PatientAppointment\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
-                {
-                    "source": "E:\\Toprate\\Torontoso\\app\\src\\main\\res\\values-v21\\styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "20",
-                        "endLines": "7",
-                        "endColumns": "12",
-                        "endOffsets": "317"
-                    },
-                    "to": {
-                        "startLines": "6",
-                        "startColumns": "4",
-                        "startOffsets": "354",
-                        "endLines": "11",
-                        "endColumns": "12",
-                        "endOffsets": "646"
-                    }
-                },
                 {
                     "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\24c8333af3f2d43ff2b1c71d3d52d739\\appcompat-1.0.0\\res\\values-v21\\values-v21.xml",
                     "from": {
@@ -77,6 +58,25 @@
                         "endLines": "292,300,308,316",
                         "endColumns": "10,10,10,10",
                         "endOffsets": "21145,21571,21994,22429"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\AndroidStudioProjects\\PatientAppointment\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "20",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "317"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "354",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "646"
                     }
                 },
                 {
