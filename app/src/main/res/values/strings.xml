@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">TorsoCAD</string>
+    <string name="permissions_granted">Permissions were granted!</string>
+    <string name="permissions_denied">Permissions were denied! Application will not work properly.</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">User Name</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="purchase_successful">Signature workout has been purchased!</string>
+    <string name="sign_in_error">Errors!</string>
+    <string name="sign_in_success">Success!</string>
+    <string name="error_exception">An error occurs.</string>
+    <string name="error_incorrect_credential">Invalid Username and/or password.</string>
+    <string name="error_account_disabled">Your account has been disabled. Please contact TorsoCAD support at HubSupport@ophub.com.</string>
+    <string name="error_camera_open">No application can handle this action!</string>
+    <string name="error_gallery_get_image">Can not get image from Gallery!</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="date_field_invalid">Invalid date!</string>
+    <string name="title_activity_patient_list">PatientListActivity</string>
+    <string name="title_activity_patient_images">PatientImagesActivity</string>
+
+    <!-- Splash screen -->
+    <string name="splash_app_name">TORONTOSO</string>
+
+    <!-- Login screen -->
+    <string name="login_app_version">v1.0</string>
+
+    <!-- Add new patient screen -->
+    <string name="patient_first_name">First Name</string>
+    <string name="patient_last_name">Last Name</string>
+    <string name="patient_dob">DOB</string>
+    <string name="patient_sex">Sex</string>
+    <string name="patient_race">Race</string>
+    <string name="patient_service">Service</string>
+    <string name="patient_brace_class">Brace Class</string>
+    <string name="patient_hypho_kypho">Hypho-Kypho</string>
+    <string name="patient_cancel">Cancel</string>
+    <string name="patient_add">Add</string>
+    <string name="patient_error_empty">%s must not be empty!</string>
+
+    <string-array name="dob_group">
+        <item>1/1/1970</item>
+    </string-array>
+    <string-array name="sex_group">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="race_group">
+        <item>A - Asian</item>
+        <item>B - Black</item>
+        <item>C - Caucasian</item>
+        <item>H - Hispanic</item>
+        <item>0 - Other</item>
+    </string-array>
+    <string-array name="service_group">
+        <item>Scoliosis</item>
+        <item>TLSO</item>
+    </string-array>
+    <string-array name="brace_group">
+        <item>A</item>
+        <item>B</item>
+        <item>BC</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>EF</item>
+        <item>F</item>
+        <item>G</item>
+        <item>K5</item>
+    </string-array>
+    <string-array name="hk_group">
+        <item>None</item>
+        <item>Mild</item>
+        <item>Moderate</item>
+        <item>Severe</item>
+        <item>Kyphotic</item>
+    </string-array>
+
+    <!-- Patient list screen -->
+    <string name="settings">Settings</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sort_by_id">Sort By Id</string>
+    <string name="sort_by_date">Sort By Date</string>
+    <string name="sort_by_last_name">Sort By Last Name</string>
+    <string name="sort_by_first_name">Sort By First Name</string>
+    <string name="sort_by_bra">Sort By Bra Class</string>
+    <string name="sort">Sort</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="delete_photo">Delete Photo</string>
+    <string name="menu">Menu</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Photo Gallery</string>
+    <string name="loading_patients">Loading patients...</string>
+
+    <!-- Nav menu -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Image list screen -->
+    <string name="no_images">Sorry! This patient has no images yet.</string>
+    <string name="loading_images">Loading patient images...</string>
+    <string name="deleting">Deleting...</string>
+    <string name="adding">Adding...</string>
+    <string name="uploading">Uploading...</string>
+    <string name="ftp_service_error">There was a problem with FTP server, pls try again later!</string>
+</resources>

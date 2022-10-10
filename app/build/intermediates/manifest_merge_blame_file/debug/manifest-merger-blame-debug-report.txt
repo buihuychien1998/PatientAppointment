@@ -1,0 +1,113 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.labrace.torontoso"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:6:5-80
+11-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:6:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:7:5-81
+12-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:8:5-67
+13-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="android.permission.VIBRATE" />
+14-->[com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\d0644435adf6baca35f5e6761f0ac834\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:26:5-66
+14-->[com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\d0644435adf6baca35f5e6761f0ac834\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:26:22-63
+15    <uses-permission android:name="com.android.vending.BILLING" />
+15-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:10:5-67
+15-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:10:22-64
+16
+17    <application
+17-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:10:5-41:19
+18        android:allowBackup="true"
+18-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:11:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\45ca2b27b5a8d2aecb4ee89b6457658f\core-1.0.0\AndroidManifest.xml:22:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@mipmap/ic_robotics"
+22-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:12:9-43
+23        android:label="Torontoso"
+23-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:13:9-34
+24        android:supportsRtl="true"
+24-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:14:9-35
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme" >
+26-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:15:9-40
+27        <activity
+27-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:16:9-27:20
+28            android:name="com.labrace.torontoso.activity.SplashActivity"
+28-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:17:13-73
+29            android:configChanges="orientation|screenSize"
+29-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:21:13-59
+30            android:label="Torontoso"
+30-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:18:13-38
+31            android:screenOrientation="portrait"
+31-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:20:13-49
+32            android:theme="@style/AppTheme.NoActionBar.FullScreen" >
+32-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:19:13-67
+33            <intent-filter>
+33-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:22:13-26:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:23:17-68
+34-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:23:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:25:17-76
+36-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:25:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:28:9-34:20
+40            android:name="com.labrace.torontoso.activity.MainNavActivity"
+40-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:29:13-74
+41            android:configChanges="orientation|screenSize"
+41-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:33:13-59
+42            android:label="@string/title_activity_patient_list"
+42-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:30:13-64
+43            android:screenOrientation="portrait"
+43-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:32:13-49
+44            android:theme="@style/AppTheme.NoActionBar" >
+44-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:31:13-56
+45        </activity>
+46        <activity
+46-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:35:9-40:20
+47            android:name="com.labrace.torontoso.activity.LoginActivity"
+47-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:36:13-72
+48            android:configChanges="orientation|screenSize"
+48-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:39:13-59
+49            android:screenOrientation="portrait"
+49-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:38:13-49
+50            android:theme="@style/AppTheme.NoActionBar.FullScreen" >
+50-->E:\Toprate\Torontoso\app\src\main\AndroidManifest.xml:37:13-67
+51        </activity>
+52
+53        <meta-data
+53-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:13:9-15:37
+54            android:name="com.google.android.play.billingclient.version"
+54-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:14:13-73
+55            android:value="5.0.0" />
+55-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:15:13-34
+56
+57        <activity
+57-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:17:9-21:75
+58            android:name="com.android.billingclient.api.ProxyBillingActivity"
+58-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:18:13-78
+59            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+59-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:19:13-96
+60            android:exported="false"
+60-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:20:13-37
+61            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+61-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:21:13-72
+62    </application>
+63
+64</manifest>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginLeft="@dimen/floating_label_bottom_spacing"
+    android:layout_marginRight="@dimen/floating_label_bottom_spacing"
+    android:background="@color/autumn_app_name">
+
+    <TextView
+        android:id="@+id/patientName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ann Jonhson"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/patient_list_header"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/patient_list_divider_margin"
+        android:layout_marginLeft="@dimen/patient_list_divider_margin"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/black"
+        android:layout_marginTop="@dimen/patient_list_divider_margin"/>
+
+</LinearLayout>

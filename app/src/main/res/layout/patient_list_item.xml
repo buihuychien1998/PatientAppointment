@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/patientName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ann Jonhson"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/patient_list_item"
+        android:layout_marginTop="@dimen/patient_list_divider_margin"
+        android:layout_marginLeft="@dimen/patient_list_divider_margin_large"
+        android:textStyle="bold"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/patient_list_divider_margin"
+        android:layout_marginLeft="@dimen/patient_list_divider_margin_large"
+        android:layout_marginBottom="@dimen/patient_list_divider_margin"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/patientId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="AA"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/patient_list_item_small"/>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:background="@android:color/black"
+            android:layout_marginLeft="@dimen/patient_list_divider_margin"
+            android:layout_marginRight="@dimen/patient_list_divider_margin"/>
+
+        <TextView
+            android:id="@+id/patientDob"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9/1/2009"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/patient_list_item_small"/>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:background="@android:color/black"
+            android:layout_marginLeft="@dimen/patient_list_divider_margin"
+            android:layout_marginRight="@dimen/patient_list_divider_margin"/>
+
+        <TextView
+            android:id="@+id/patientGender"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Female"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/patient_list_item_small"/>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:background="@android:color/black"
+            android:layout_marginLeft="@dimen/patient_list_divider_margin"
+            android:layout_marginRight="@dimen/patient_list_divider_margin"/>
+
+        <TextView
+            android:id="@+id/patientBraClass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="A"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/patient_list_item_small"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="@dimen/floating_label_bottom_spacing"
+        android:layout_marginRight="@dimen/floating_label_bottom_spacing"
+        android:background="@color/colorPrimary"/>
+
+</LinearLayout>

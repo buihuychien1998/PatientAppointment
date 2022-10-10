@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Toprate\\Torontoso\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ml-rIN\\values-ml-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\d0644435adf6baca35f5e6761f0ac834\\jetified-materialdatetimepicker-2.3.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "267,328,441,557,643,774,898,1030,1134,1234,1336,1431",
+                        "endColumns": "60,112,115,85,130,123,131,103,99,101,94,106",
+                        "endOffsets": "323,436,552,638,769,893,1025,1129,1229,1331,1426,1533"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,166,279,395,481,612,736,868,972,1072,1174,1269",
+                        "endColumns": "60,112,115,85,130,123,131,103,99,101,94,106",
+                        "endOffsets": "161,274,390,476,607,731,863,967,1067,1169,1264,1371"
+                    }
+                }
+            ]
+        }
+    ]
+}
