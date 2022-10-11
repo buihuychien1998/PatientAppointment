@@ -5,7 +5,7 @@ android {
     buildToolsVersion '28.0.3'
 
     defaultConfig {
-        applicationId "com.labrace.torontoso"
+        applicationId "com.cpsteam.torontoso"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 1
