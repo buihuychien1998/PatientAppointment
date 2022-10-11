@@ -50,6 +50,15 @@ public class PatientImagesAdapter extends RecyclerView.Adapter<PatientImagesAdap
     private List<SkuDetails> skuDetailsList;
     private BillingClient billingClient;
     private String imageID;
+    private BitmapDrawable bitmapDrawable;
+
+    public BitmapDrawable getBitmapDrawable() {
+        return bitmapDrawable;
+    }
+
+    public void setBitmapDrawable(BitmapDrawable bitmapDrawable) {
+        this.bitmapDrawable = bitmapDrawable;
+    }
 
     public PatientImagesAdapter(Context context, List<Image> images, TextView textEmpty, int mTorsoId,
                                 List<SkuDetails> skuDetailsList, BillingClient billingClient) {
@@ -162,10 +171,7 @@ public class PatientImagesAdapter extends RecyclerView.Adapter<PatientImagesAdap
             new DeleteImageTask().executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR, image);
         } else {
             ImageView patientImage = (ImageView) view.findViewById(R.id.patientImage);
-            BitmapDrawable bitmapDrawable = (BitmapDrawable) patientImage.getDrawable();
-            Bundle bundle = new Bundle();
-            bundle.putParcelable(Constants.IMAGE, bitmapDrawable.getBitmap());
-            mActivity.openPage(Constants.SCREEN_PHOTO_DETAIL, bundle);
+            setBitmapDrawable((BitmapDrawable) patientImage.getDrawable());
         }
     }
 

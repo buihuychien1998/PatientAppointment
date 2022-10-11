@@ -1,0 +1,110 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.labrace.torontoso"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:6:5-80
+11-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:6:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:7:5-81
+12-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:8:5-67
+13-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="android.permission.VIBRATE" />
+14-->[com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b9ca84e5fbd48ca1f67b7d7ea16e1cf5\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:26:5-66
+14-->[com.wdullaer:materialdatetimepicker:2.3.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b9ca84e5fbd48ca1f67b7d7ea16e1cf5\jetified-materialdatetimepicker-2.3.0\AndroidManifest.xml:26:22-63
+15    <uses-permission android:name="com.android.vending.BILLING" />
+15-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:10:5-67
+15-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:10:22-64
+16
+17    <application
+17-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:10:5-41:19
+18        android:allowBackup="true"
+18-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:11:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\45ca2b27b5a8d2aecb4ee89b6457658f\core-1.0.0\AndroidManifest.xml:22:18-86
+20        android:icon="@mipmap/ic_robotics"
+20-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:12:9-43
+21        android:label="Torontoso"
+21-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:13:9-34
+22        android:supportsRtl="true"
+22-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:14:9-35
+23        android:theme="@style/AppTheme" >
+23-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:15:9-40
+24        <activity
+24-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:16:9-27:20
+25            android:name="com.cpsteam.torontoso.activity.SplashActivity"
+25-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:17:13-73
+26            android:configChanges="orientation|screenSize"
+26-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:21:13-59
+27            android:label="Torontoso"
+27-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:18:13-38
+28            android:screenOrientation="portrait"
+28-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:20:13-49
+29            android:theme="@style/AppTheme.NoActionBar.FullScreen" >
+29-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:19:13-67
+30            <intent-filter>
+30-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:22:13-26:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:23:17-68
+31-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:23:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:25:17-76
+33-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:25:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:28:9-34:20
+37            android:name="com.cpsteam.torontoso.activity.MainNavActivity"
+37-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:29:13-74
+38            android:configChanges="orientation|screenSize"
+38-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:33:13-59
+39            android:label="@string/title_activity_patient_list"
+39-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:30:13-64
+40            android:screenOrientation="portrait"
+40-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:32:13-49
+41            android:theme="@style/AppTheme.NoActionBar" >
+41-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:31:13-56
+42        </activity>
+43        <activity
+43-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:35:9-40:20
+44            android:name="com.cpsteam.torontoso.activity.LoginActivity"
+44-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:36:13-72
+45            android:configChanges="orientation|screenSize"
+45-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:39:13-59
+46            android:screenOrientation="portrait"
+46-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:38:13-49
+47            android:theme="@style/AppTheme.NoActionBar.FullScreen" >
+47-->C:\Users\Admin\AndroidStudioProjects\PatientAppointment\app\src\main\AndroidManifest.xml:37:13-67
+48        </activity>
+49
+50        <meta-data
+50-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:13:9-15:37
+51            android:name="com.google.android.play.billingclient.version"
+51-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:14:13-73
+52            android:value="5.0.0" />
+52-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:15:13-34
+53
+54        <activity
+54-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:17:9-21:75
+55            android:name="com.android.billingclient.api.ProxyBillingActivity"
+55-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:18:13-78
+56            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+56-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:19:13-96
+57            android:exported="false"
+57-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:20:13-37
+58            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+58-->[com.android.billingclient:billing:5.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\467e2c15427d97ac3b6fccf507e7510a\jetified-billing-5.0.0\AndroidManifest.xml:21:13-72
+59    </application>
+60
+61</manifest>

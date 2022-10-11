@@ -86,6 +86,7 @@ public class PatientPhotoListFragment extends Fragment {
     private BillingClient billingClient;
 
     final List<SkuDetails> skuDetailsList = new ArrayList<>();
+    private PatientImagesAdapter patientImagesAdapter;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -101,10 +102,11 @@ public class PatientPhotoListFragment extends Fragment {
                 .setListener((billingResult, list) -> {
                     if (billingResult.getResponseCode() == BillingClient.BillingResponseCode.OK && list != null) {
                         for (Purchase purchase : list) {
-                            if (purchase.getPurchaseState() == Purchase.PurchaseState.PURCHASED) {
+                            if (purchase.getPurchaseState() == Purchase.PurchaseState.PURCHASED && patientImagesAdapter != null && getActivity() != null) {
                                 handlePurchase(purchase);
-                                Toast.makeText(activity.getApplicationContext(), activity.getResources().getString(R.string.purchase_successful), Toast.LENGTH_SHORT).show();
-                                FragmentManager fragmentManager = activity.getSupportFragmentManager();
+                                Bundle bundle = new Bundle();
+                                bundle.putParcelable(Constants.IMAGE, patientImagesAdapter.getBitmapDrawable().getBitmap());
+                                ((MainNavActivity) getActivity()).openPage(Constants.SCREEN_PHOTO_DETAIL, bundle);
                             }
                         }
                         // Query for existing user purchases
@@ -231,7 +233,7 @@ public class PatientPhotoListFragment extends Fragment {
 
 //        loadImagesTask = new LoadImagesTask();
 //        loadImagesTask.executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR);
-        PatientImagesAdapter patientImagesAdapter = new PatientImagesAdapter(getActivity(), patient.getImages(), textEmpty,
+        patientImagesAdapter = new PatientImagesAdapter(getActivity(), patient.getImages(), textEmpty,
                 torsoId, skuDetailsList, billingClient);
         imageListView.setAdapter(patientImagesAdapter);
     }
@@ -537,7 +539,7 @@ public class PatientPhotoListFragment extends Fragment {
                     }
                 }
             }
-            PatientImagesAdapter patientImagesAdapter = new PatientImagesAdapter(getActivity(), patient.getImages(), textEmpty, torsoId,
+            patientImagesAdapter = new PatientImagesAdapter(getActivity(), patient.getImages(), textEmpty, torsoId,
                     skuDetailsList, billingClient);
             imageListView.setAdapter(patientImagesAdapter);
             activity.hideProgress();
